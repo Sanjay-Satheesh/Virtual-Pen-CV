@@ -1,4 +1,4 @@
-# Virtual-Pen-CV #
+# VirtualPen-CV #
 The project enables you to write virtually with your fingers. MediaPipe and OpenCV libraries are used.  
 
 ## MediaPipe ##
